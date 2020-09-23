@@ -1,2 +1,2 @@
 # chriztie.github.io
-Personal
+Personal Portfolio
